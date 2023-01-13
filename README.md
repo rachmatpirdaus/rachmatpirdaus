@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rachmatpirdaus
 - 👀 I’m interested in Website Building
-- 🌱 I’m currently learning PHP, Ajax, JavScript, etc ..
+- 🌱 I’m currently learning PHP, Python, JavScript, etc ..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 

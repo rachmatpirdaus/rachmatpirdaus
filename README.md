@@ -59,7 +59,6 @@ Ini adalah teknologi dan tools yang saya gunakan sehari-hari.
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rachmatpirdaus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachmatpirdaus&layout=compact&theme=tokyonight"/>
 </p>
 

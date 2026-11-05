@@ -1,9 +1,9 @@
 <div id="header" align="center">
   <h1>Hi there, I'm Rachmat Pirdaus 👋</h1>
-  <h3>Software Developer & QA Automation Engineer</h3>
+  <h3>Quality Assurance Engineer (Manual & Automation)</h3>
   <p>
-    Passionate about Software Engineering, Quality Assurance, and robust financial technology solutions.<br>
-    I bridge the gap between writing clean code and ensuring systems are secure, efficient, and reliable.
+    Passionate about software quality, robust financial technology solutions, and rigorous testing standards.<br>
+    Bridging the gap between business requirements and flawless user experiences through meticulous manual verification and scalable test automation.
   </p>
 
   <!-- Quick Connect Badges -->
@@ -21,49 +21,46 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 **Current Focus:** Sharpening my skills in backend development and end-to-end test automation (**Playwright**, **Katalon**).
-- 🌱 **Learning:** Exploring cloud infrastructure, CI/CD pipelines, and advanced security testing.
-- 💬 **Ask me about:** PHP, TypeScript, Python, E2E & API Testing, or Core Banking Systems (**Temenos T24**).
-- ⚡ **Fun Fact:** I enjoy debugging complex systems just as much as I enjoy building them from scratch.
+- 🔭 **Current Focus:** Ensuring software reliability through comprehensive manual testing and building automated E2E test suites (**Playwright**, **Katalon**).
+- 🔍 **QA Expertise:** Functional Testing, Regression Testing, API & Integration Testing, and User Acceptance Testing (UAT) workflows.
+- 💬 **Ask me about:** Manual QA methodologies, Test Case Design, API Testing, or Core Banking Systems (**Temenos T24**).
+- ⚡ **Fun Fact:** I treat every bug found before production as a victory for the user experience.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & QA Tools
 
-Here are the technologies, frameworks, and tools I work with regularly:
+Here are the tools, frameworks, and technologies I leverage to ensure software quality:
 
-#### 💻 Languages & Databases
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
-
-#### ⚙️ Runtime & Frameworks
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-</p>
-
-#### 🧪 QA Automation, API & Security Testing
+#### 🧪 QA Automation & E2E Testing
 <p>
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
   <img src="https://img.shields.io/badge/Katalon-067457?style=for-the-badge&logo=katalon&logoColor=white" alt="Katalon"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
+
+#### 🌐 API, Integration & Security Testing
+<p>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
   <img src="https://img.shields.io/badge/SoapUI-52832D?style=for-the-badge&logo=soapui&logoColor=white" alt="SoapUI"/>
   <img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
 </p>
 
-#### 🏦 Enterprise Platforms & Dev Tools
+#### 🏦 Domain Knowledge & Database Tools
 <p>
   <img src="https://img.shields.io/badge/Temenos_T24-00468B?style=for-the-badge" alt="Temenos T24"/>
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/DBeaver-38285D?style=for-the-badge&logo=dbeaver&logoColor=white" alt="DBeaver"/>
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch"/>
+</p>
+
+#### 📋 Management, Tracking & Version Control
+<p>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </p>
 
 ---

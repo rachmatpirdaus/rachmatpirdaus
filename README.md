@@ -63,11 +63,4 @@ Here are the tools, frameworks, and technologies I leverage to ensure software q
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </p>
 
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rachmatpirdaus&show_icons=true&theme=tokyonight&hide_border=true" alt="Rachmat's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachmatpirdaus&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
+--
